@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTrainNeuralNetwork", "CodingTrainNeuralNetwork\CodingTrainNeuralNetwork.csproj", "{0D4B77B2-D8D5-49D9-804C-BCAA6065CB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XORProblem", "XORProblem\XORProblem.csproj", "{BBC1A6FB-FEED-4988-97F7-F7563272BAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4B77B2-D8D5-49D9-804C-BCAA6065CB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4B77B2-D8D5-49D9-804C-BCAA6065CB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4B77B2-D8D5-49D9-804C-BCAA6065CB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4B77B2-D8D5-49D9-804C-BCAA6065CB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC1A6FB-FEED-4988-97F7-F7563272BAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC1A6FB-FEED-4988-97F7-F7563272BAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC1A6FB-FEED-4988-97F7-F7563272BAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC1A6FB-FEED-4988-97F7-F7563272BAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD7A1E4-4164-4EEB-879F-11742137D04D}
+	EndGlobalSection
+EndGlobal
